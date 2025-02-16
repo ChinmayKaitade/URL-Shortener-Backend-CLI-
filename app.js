@@ -3,7 +3,7 @@ import { createServer } from "http";
 import path from "path";
 import crypto from "crypto";
 
-const PORT = 3000;
+const PORT = 3004;
 
 const DATA_FLE = path.join("data", "links.json");
 
